@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Hong Quan 👋</h1>
 
-<h3 align="center">AI & Robotics Enthusiast | Computer Science Student @ FPT University</h3>
+<h3 align="center">AI & Robotics Enthusiast | Computer Science Student </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+with+Machine+Learning+%26+Computer+Vision;Exploring+Autonomous+Systems+%26+Embedded+AI;Always+learning%2C+always+building" alt="Typing SVG" />
@@ -13,17 +13,17 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🎓 **Education:** Information Technology — Major in Artificial Intelligence, **FPT University**
-- 📍 **Location:** Da Nang, Vietnam
-- 🧠 **Interests:** Deep Learning, Computer Vision, Embedded Systems, Robotics
-- 💼 **Current Focus:** Strengthening core skills in Python, AI/ML frameworks, and hardware integration
-- 🌱 **Goal:** Becoming an AI Engineer who bridges intelligent algorithms with real-world robotic systems
+- **Education:** Information Technology — Major in Artificial Intelligence, **FPT University**
+- **Location:** Da Nang, Vietnam
+- **Interests:** Deep Learning, Computer Vision, Embedded Systems, Robotics
+- **Current Focus:** Strengthening core skills in Python, AI/ML frameworks, and hardware integration
+- **Goal:** Becoming an AI Engineer who bridges intelligent algorithms with real-world robotic systems
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Artificial Intelligence & Data Science**
 
@@ -68,16 +68,16 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 <!--
 Gợi ý: thêm 2-4 project nổi bật nhất, mỗi project nên có repo riêng với README đầy đủ (mô tả, ảnh demo, cách chạy).
 Ví dụ format:
-- 🔭 **[Project Name](link)** — Mô tả ngắn gọn 1 câu về bài toán giải quyết & công nghệ dùng.
+- **[Project Name](link)** — Mô tả ngắn gọn 1 câu về bài toán giải quyết & công nghệ dùng.
 -->
 
-- 🔭 *(Thêm project Computer Vision / Robotics nổi bật của bạn ở đây)*
-- 🔭 *(Thêm project Machine Learning thứ hai ở đây)*
+- *(Thêm project Computer Vision / Robotics nổi bật của bạn ở đây)*
+- *(Thêm project Machine Learning thứ hai ở đây)*
 
 ---
 
@@ -85,4 +85,4 @@ Ví dụ format:
   <img src="https://komarev.com/ghpvc/?username=NguyenHongQuan2k6&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
-<p align="center"><i>⭐️ Thank you for visiting my profile! Feel free to reach out and connect.</i></p>
+<p align="center"><i> Thank you for visiting my profile! Feel free to reach out and connect.</i></p>

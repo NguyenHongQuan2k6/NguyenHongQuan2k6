@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+with+Machine+Learning+%26+Computer+Vision;Exploring+Autonomous+Systems+%26+Embedded+AI;Always+learning%2C+always+building" alt="Typing SVG" />
----
+
 
 ### About Me
 

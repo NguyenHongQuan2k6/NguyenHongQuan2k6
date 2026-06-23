@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+with+Machine+Learning+%26+Computer+Vision;Exploring+Autonomous+Systems+%26+Embedded+AI;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="mailto:hongquannguyen2k6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/nguyen.hongquan.5895834"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
-
 ---
 
 ### About Me

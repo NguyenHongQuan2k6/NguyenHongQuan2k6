@@ -1,11 +1,9 @@
-<h1 align="center">Hi there, I'm Hong Quan </h1>
+<h1 align="center">Hi there, I'm Hong Quan</h1>
 
-<h3 align="center">AI & Robotics Enthusiast | Computer Science Student </h3>
+<h3 align="center">AI & Robotics Enthusiast | Computer Science Student @ FPT University</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+with+Machine+Learning+%26+Computer+Vision;Exploring+Autonomous+Systems+%26+Embedded+AI;Always+learning%2C+always+building" alt="Typing SVG" />
-</p>
-
 ---
 
 ### About Me
@@ -18,63 +16,34 @@
 
 ---
 
-### Tech Stack & Tools
-
-**Artificial Intelligence & Data Science**
+**Languages and Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-**Hardware & Programming Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
-
-**Version Control & Platforms**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenHongQuan2k6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHongQuan2k6&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenHongQuan2k6&show_icons=true&theme=tokyonight&hide_border=false&border_color=ffffff&count_private=true" width="51%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHongQuan2k6&layout=compact&theme=tokyonight&hide_border=false&border_color=ffffff&langs_count=8" width="46%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenHongQuan2k6&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenHongQuan2k6&theme=tokyonight&hide_border=false&border=ffffff&border_radius=6" width="80%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NguyenHongQuan2k6&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
-### Featured Projects
-
-<!--
-Gợi ý: thêm 2-4 project nổi bật nhất, mỗi project nên có repo riêng với README đầy đủ (mô tả, ảnh demo, cách chạy).
-Ví dụ format:
-- **[Project Name](link)** — Mô tả ngắn gọn 1 câu về bài toán giải quyết & công nghệ dùng.
--->
-
-- *(Thêm project Computer Vision / Robotics nổi bật của bạn ở đây)*
-- *(Thêm project Machine Learning thứ hai ở đây)*
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NguyenHongQuan2k6&style=flat-square&color=blue" alt="Profile views" />

@@ -2,7 +2,7 @@
 
 <p align="center">
   <div style="width: 100%; height: 125px; overflow: hidden; border-radius: 12px; border: 1px solid #30363d; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
-    <img src="./beautiful-banner-1.jpg" alt="Beautiful Banner Panoramic" style="width: 100%; height: 100%; object-fit: cover; object-position: center 60%;">
+    <img src="./beautiful_banner_1.jpg" alt="Beautiful Banner Panoramic" style="width: 100%; height: 100%; object-fit: cover; object-position: center 60%;">
   </div>
 </p>
 

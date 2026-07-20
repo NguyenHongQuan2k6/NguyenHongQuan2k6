@@ -10,18 +10,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenHongQuan2k6&show_icons=true&theme=tokyonight&hide_border=false&border_color=ffffff&count_private=true" width="51%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHongQuan2k6&layout=compact&theme=tokyonight&hide_border=false&border_color=ffffff&langs_count=8" width="46%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenHongQuan2k6&theme=tokyonight&hide_border=false&border=ffffff&border_radius=6" width="80%" />
-</p>
-
-
----
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NguyenHongQuan2k6&style=flat-square&color=blue" alt="Profile views" />

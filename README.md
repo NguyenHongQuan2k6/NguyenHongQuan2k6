@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="đường_dẫn_đến_ảnh_của_bạn.jpg" alt="Banner" width="100%" style="border-radius: 8px;">
+  <img src="beautiful-banner.jpg" alt="Banner" width="100%" style="border-radius: 8px;">
 </p>
 
 <h1 align="center">Hi there, I'm Hong Quan</h1>

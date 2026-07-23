@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="./50gl83.gif" alt="Banner" width="100%">
+  <img src="./50gl83-ezgif.com-crop.gif" alt="Banner" width="100%">
 </p>
 <!-- Tên -->
 <h1 align="center" style="margin-top: 20px;">Hi there, I'm Hong Quan</h1>
